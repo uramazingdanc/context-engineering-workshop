@@ -40,7 +40,6 @@ context-engineering-workshop/
     └── works-cited.md                          # Source references
 ```
 
-## Quick Links
 
 | Module | Focus | Duration |
 |---|---|---|
