@@ -44,11 +44,11 @@ context-engineering-workshop/
 
 | Module | Focus | Duration |
 |---|---|---|
-| [Module 1](docs/01-context-engineering-foundations.md) | Context Engineering Foundations | 10 min |
-| [Module 2](docs/02-rtcco-framework.md) | RTCCO Prompting Framework | 15 min |
-| [Module 3](docs/03-hands-on-generation.md) | Hands-On Generation in Lovable | 20 min |
-| [Module 4](docs/04-backend-deployment.md) | Backend, GitHub Sync & Deployment | 10 min |
-| [Module 5](docs/05-wrap-up-roadmap.md) | Wrap-up & Ecosystem Roadmap | 5 min |
+| [Module 1] | Context Engineering Foundations | 10 min |
+| [Module 2] | RTCCO Prompting Framework | 15 min |
+| [Module 3] | Hands-On Generation in Lovable | 20 min |
+| [Module 4] | Backend, GitHub Sync & Deployment | 10 min |
+| [Module 5] | Wrap-up & Ecosystem Roadmap | 5 min |
 
 ## For Participants
 
